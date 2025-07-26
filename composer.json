@@ -1,5 +1,5 @@
 {
-  "name":"powernine/chatify",
+  "name":"bright_spark/chatify",
   "description": "A package for Laravel PHP Framework to add a complete real-time chat system.",
   "type": "library",
   "keywords": [
